@@ -29,3 +29,12 @@ The key serves as a claim index authentication to access APIntIO's default serve
 - If the project grows and evolves into some optional service with a monthly cost, this key grants access to it.
 - When we organize coding tournaments, this master key is used to receive the prize.
 
+
+**DIY Open Source Project:**
+
+Note that these claims are in the context of the default server and services I am building around APInt.io.  
+However, all the code for my project is open source.  
+Feel free to contact me on Discord if you want me to teach you how to create your own server.
+
+
+
