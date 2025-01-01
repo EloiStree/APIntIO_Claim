@@ -12,3 +12,19 @@ Note, all the index to public key is store on my servers as such:
 By my convention: 
 - `0` is the admin for `twitch play` like project.  
 - `42` is the admin of the server.  
+
+
+**To add a key:**
+
+- Buy a key at [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio).
+- Contact me with an unclaimed index you want to use and the public key you'd like to associate with it.
+  - Once added: "Own the key, own the index" is the only rule. Don’t lose it.
+  - I recommend using MetaMask for that key to avoid losing it.
+  - This master key is use to forge authorized keys on : Discord, Twitch, Unity3D and others. 
+
+**Monthly Cost and Ethereum Ranking:**
+
+The key serves as a claim index authentication to access APIntIO's default servers and services.
+- If the project grows and evolves into a service with a monthly cost, this key grants access to it.
+- When we organize coding tournaments, this master key is used to receive the prize.
+
