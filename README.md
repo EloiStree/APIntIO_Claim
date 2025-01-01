@@ -9,3 +9,6 @@ Find here only folders representing an index and files representing the index ow
 Note, all the index to public key is store on my servers as such:     
 `git clone https://github.com/EloiStree/APIntIO_Claim.git /git/APIntIO_Claim`  
 
+By my convention: 
+- `0` is the admin for `twitch play` like project.  
+- `42` is the admin of the server.  
