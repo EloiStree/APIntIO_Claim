@@ -19,6 +19,7 @@ By my convention:
 - Buy a key at [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio).
 - Contact me with an unclaimed index you want to use and the public key you'd like to associate with it.
   - Once added: "Own the key, own the index" is the only rule. Don’t lose it.
+    - No social hacking here. 
   - I recommend using MetaMask for that key to avoid losing it.
   - This master key is use to forge authorized keys on : Discord, Twitch, Unity3D and others. 
 
