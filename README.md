@@ -26,6 +26,6 @@ By my convention:
 **Monthly Cost and Ethereum Ranking:**
 
 The key serves as a claim index authentication to access APIntIO's default servers and services.
-- If the project grows and evolves into a service with a monthly cost, this key grants access to it.
+- If the project grows and evolves into some optional service with a monthly cost, this key grants access to it.
 - When we organize coding tournaments, this master key is used to receive the prize.
 
