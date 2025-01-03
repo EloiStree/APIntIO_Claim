@@ -1,3 +1,5 @@
+See [APIntIO_ClaimCoasterKey](https://github.com/EloiStree/APIntIO_ClaimCoasterKey.git)
+
 # APIntIO_Claim
 
 To use the APIntIO default server for tournaments or as an official user, you need a key claim.  
